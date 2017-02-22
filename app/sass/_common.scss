@@ -1,0 +1,25 @@
+.side-bar__show-link.activate:after {
+    content: 'Navigation';
+    left: -15px;
+}
+
+ul.title-bar__menu{
+	float: left;
+}
+
+.col-body{
+	background-color: #F6F8F9;
+}
+
+//sort indicators
+.st-sort-ascent:before{
+    content: "\f0d8";
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-right: 5px;
+ }
+
+.st-sort-descent:before{
+	content: "\f0d7";
+	font: normal normal normal 14px/1 FontAwesome;
+	margin-right: 5px;
+}

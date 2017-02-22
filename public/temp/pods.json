@@ -1,0 +1,6296 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1665587,
+          39.9475832
+        ]
+      },
+      "properties": {
+        "Location ID": 68890161,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 339.9,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Spruce",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.175999403,
+          39.9514065745
+        ]
+      },
+      "properties": {
+        "Location ID": 68890241,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 325,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Sansom",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1698172587,
+          39.9529233188
+        ]
+      },
+      "properties": {
+        "Location ID": 68890352,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 325,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "18th/Market (3rd floor)",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1554214954,
+          39.9475162228
+        ]
+      },
+      "properties": {
+        "Location ID": 68891521,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Locust",
+        "Standard Spots": 6,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1462671161,
+          39.9423897503
+        ]
+      },
+      "properties": {
+        "Location ID": 68891654,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 325,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "2nd/Lombard",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19147,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1542198658,
+          39.9415219339
+        ]
+      },
+      "properties": {
+        "Location ID": 68892330,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 350,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "7th/Bainbridge (CLOSED)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1508164,
+          39.9409457
+        ]
+      },
+      "properties": {
+        "Location ID": 68893276,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 365,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "4th/Bainbridge",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1628994942,
+          39.9628398845
+        ]
+      },
+      "properties": {
+        "Location ID": 68893322,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 190,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Spring Garden",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1596489,
+          39.9456228
+        ]
+      },
+      "properties": {
+        "Location ID": 68893961,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 240,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "11th/Pine",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1674860716,
+          39.9459945663
+        ]
+      },
+      "properties": {
+        "Location ID": 68894164,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 375,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Pine",
+        "Standard Spots": 5,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19102,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1824011654,
+          39.9547494203
+        ]
+      },
+      "properties": {
+        "Location ID": 69118433,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 340,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "30th St Stn - Little Market St.",
+        "Standard Spots": 13,
+        "Max Spots": 15,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.163629,
+          39.9470107
+        ]
+      },
+      "properties": {
+        "Location ID": 69118440,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 268.33,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Spruce/Juniper St.",
+        "Standard Spots": 9,
+        "Max Spots": 9,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1597237587,
+          39.973412093
+        ]
+      },
+      "properties": {
+        "Location ID": 70889188,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Thompson (Sunoco)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19121,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1611667871,
+          39.9397060645
+        ]
+      },
+      "properties": {
+        "Location ID": 78778372,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "11th/Christian",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1442098618,
+          39.9516286387
+        ]
+      },
+      "properties": {
+        "Location ID": 85823292,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 300,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "3rd/Arch (218 Arch Street)",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19106,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1753463745,
+          39.9520378113
+        ]
+      },
+      "properties": {
+        "Location ID": 111019428,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 385,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Chestnut",
+        "Standard Spots": 10,
+        "Max Spots": 14,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1433622837,
+          39.9509747811
+        ]
+      },
+      "properties": {
+        "Location ID": 115372444,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 287.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "2nd/Filbert",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19106,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1553713392,
+          39.938505944
+        ]
+      },
+      "properties": {
+        "Location ID": 120610788,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Christian",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1574626565,
+          39.9440965607
+        ]
+      },
+      "properties": {
+        "Location ID": 131073828,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Lombard/Hutchinson",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "private driveway",
+        "Zip Code": 19147,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1614403725,
+          39.9491684156
+        ]
+      },
+      "properties": {
+        "Location ID": 136868079,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 2,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Walnut",
+        "Standard Spots": 9,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1697713137,
+          39.9463276886
+        ]
+      },
+      "properties": {
+        "Location ID": 136878988,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 380,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "17th/Pine",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1555287898,
+          39.9533355995
+        ]
+      },
+      "properties": {
+        "Location ID": 136883854,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 235,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "10th/Arch",
+        "Standard Spots": 7,
+        "Max Spots": 8,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1743149757,
+          39.9675824715
+        ]
+      },
+      "properties": {
+        "Location ID": 166960292,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 154.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "22nd/Fairmount",
+        "Standard Spots": 6,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1694715768,
+          39.917884469
+        ]
+      },
+      "properties": {
+        "Location ID": 166977039,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Shunk/Moyamensing",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19148,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1448371577,
+          39.9354602061
+        ]
+      },
+      "properties": {
+        "Location ID": 166985227,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 155,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Front/Christian",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1607193615,
+          39.9493246872
+        ]
+      },
+      "properties": {
+        "Location ID": 166986243,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 242.05,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "12th/Walnut (Parkway Garage)",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2107009888,
+          39.9439926147
+        ]
+      },
+      "properties": {
+        "Location ID": 166992322,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 75,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "47th/Woodland",
+        "Standard Spots": 2,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "Southwest",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1609555632,
+          39.9765021354
+        ]
+      },
+      "properties": {
+        "Location ID": 166997149,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Sydenham/Jefferson",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19121,
+        "Zone": "Lower North Philly",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1668852568,
+          39.9440533769
+        ]
+      },
+      "properties": {
+        "Location ID": 168646483,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 330,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/South",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19146,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2255988121,
+          39.9544084917
+        ]
+      },
+      "properties": {
+        "Location ID": 177809847,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "52nd/Spruce",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1703774929,
+          39.9308625239
+        ]
+      },
+      "properties": {
+        "Location ID": 181958191,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Tasker",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "private driveway",
+        "Zip Code": 19145,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2199554443,
+          39.9534873695
+        ]
+      },
+      "properties": {
+        "Location ID": 181968290,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 145,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "49th/Spruce",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1773619652,
+          39.9417255221
+        ]
+      },
+      "properties": {
+        "Location ID": 183818031,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 400,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Webster",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "private driveway",
+        "Zip Code": 19146,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.226328373,
+          39.9588658901
+        ]
+      },
+      "properties": {
+        "Location ID": 187530706,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "52nd/Chestnut",
+        "Standard Spots": 5,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1735210419,
+          39.950197546
+        ]
+      },
+      "properties": {
+        "Location ID": 188105638,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 360.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "20th/Walnut",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.154520273,
+          39.9532355738
+        ]
+      },
+      "properties": {
+        "Location ID": 231562459,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 193,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "9th/Filbert (Warehouse Apts)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1625132561,
+          39.9592112852
+        ]
+      },
+      "properties": {
+        "Location ID": 290719124,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 154.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Callowhill (322 N. Broad)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19102,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2126759298,
+          39.9489898942
+        ]
+      },
+      "properties": {
+        "Location ID": 293429078,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "45th/Baltimore (Sunoco)",
+        "Standard Spots": 2,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2179384232,
+          39.9482153509
+        ]
+      },
+      "properties": {
+        "Location ID": 295289299,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "47th/Baltimore",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.116804,
+          39.941517
+        ]
+      },
+      "properties": {
+        "Location ID": 306685127,
+        "City": "CAMDEN",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "1 Cooper Plaza - Cooper Hospital",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 8103,
+        "Zone": "South Jersey",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1569380783,
+          39.9278305396
+        ]
+      },
+      "properties": {
+        "Location ID": 308671953,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "7th/Morris",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19148,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.232162,
+          39.947887
+        ]
+      },
+      "properties": {
+        "Location ID": 310451744,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "54th/Baltimore (8 Brothers Food Market)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19143,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.149743259,
+          39.9310805412
+        ]
+      },
+      "properties": {
+        "Location ID": 320587913,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "3rd/Earp",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1624596119,
+          39.9647620389
+        ]
+      },
+      "properties": {
+        "Location ID": 324422849,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Mt Vernon",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.159372187,
+          40.0422617003
+        ]
+      },
+      "properties": {
+        "Location ID": 339141082,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Chew/Wister (La Salle University Security Headquarters)",
+        "Standard Spots": 12,
+        "Max Spots": 13,
+        "Type": "surface lot",
+        "Zip Code": 19138,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3141868114,
+          40.0292287524
+        ]
+      },
+      "properties": {
+        "Location ID": 358785664,
+        "City": "BRYN MAWR",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Radnor Parking Lot (Bryn Mawr College)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19010,
+        "Zone": "Montgomery County",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1421821102,
+          39.9665073498
+        ]
+      },
+      "properties": {
+        "Location ID": 372233599,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "3rd/Wildey",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19123,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1915562153,
+          39.9544413887
+        ]
+      },
+      "properties": {
+        "Location ID": 388037882,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "34th/Chestnut (UPenn Lot 37)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1988303661,
+          39.9543262492
+        ]
+      },
+      "properties": {
+        "Location ID": 388039622,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "38th/Sansom (UPenn Lot 23)",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1523530465,
+          40.0633701901
+        ]
+      },
+      "properties": {
+        "Location ID": 414635625,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 175,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ogontz/Homer (Ogontz Plaza)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19138,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1828698814,
+          40.0271143207
+        ]
+      },
+      "properties": {
+        "Location ID": 415878492,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 65,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Wissahickon/Chelten (Park Heights)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.211853832,
+          39.9518671512
+        ]
+      },
+      "properties": {
+        "Location ID": 415932371,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "45th/Pine",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2161331177,
+          39.9560623169
+        ]
+      },
+      "properties": {
+        "Location ID": 415937161,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 125,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "47th/Walnut",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1664359849,
+          39.9228696577
+        ]
+      },
+      "properties": {
+        "Location ID": 471292542,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "12th/Jackson",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19148,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1670944691,
+          39.9354078352
+        ]
+      },
+      "properties": {
+        "Location ID": 475173698,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Federal (Pep Boys)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1851832867,
+          40.0635146755
+        ]
+      },
+      "properties": {
+        "Location ID": 489684085,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Mt Pleasant/Sprague (Sedgewick Station)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19119,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.166876,
+          39.963985
+        ]
+      },
+      "properties": {
+        "Location ID": 494087569,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 185,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "17th/Brandywine",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1403501044,
+          39.9678889571
+        ]
+      },
+      "properties": {
+        "Location ID": 497406022,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "2nd/Germantown",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13441,
+          39.97167
+        ]
+      },
+      "properties": {
+        "Location ID": 498431977,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Frankford/Master",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19125,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1938092709,
+          40.054699473
+        ]
+      },
+      "properties": {
+        "Location ID": 502945298,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Mt Pleasant/Lincoln (Mt Pleasant Arms)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19119,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1793222282,
+          40.0720272719
+        ]
+      },
+      "properties": {
+        "Location ID": 502953504,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Mt Airy/Lowber (Stenton Plaza)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19150,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1583598592,
+          39.9558346806
+        ]
+      },
+      "properties": {
+        "Location ID": 513895726,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 180.25,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "11th/Race - Parkway Lot",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1420952303,
+          40.0472818116
+        ]
+      },
+      "properties": {
+        "Location ID": 548784714,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Godfrey",
+        "Standard Spots": 3,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19141,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1665737804,
+          39.9484952497
+        ]
+      },
+      "properties": {
+        "Location ID": 558043822,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 375,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Locust",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0688800933,
+          39.9161310548
+        ]
+      },
+      "properties": {
+        "Location ID": 559428512,
+        "City": "COLLINGSWOOD",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "New Jersey",
+        "Street Address": "Haddon/Collings",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 8108,
+        "Zone": "South Jersey",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0703659654,
+          39.9156059325
+        ]
+      },
+      "properties": {
+        "Location ID": 559438812,
+        "City": "COLLINGSWOOD",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "New Jersey",
+        "Street Address": "LumberYard Garage",
+        "Standard Spots": 3,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 8108,
+        "Zone": "South Jersey",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1925157775,
+          39.9561958758
+        ]
+      },
+      "properties": {
+        "Location ID": 563245529,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "36th/Filbert (Drexel Lot C)",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1919437361,
+          39.9593012969
+        ]
+      },
+      "properties": {
+        "Location ID": 563250617,
+        "City": "NORRISTOWN",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "35th/Race (Drexel Lot D)",
+        "Standard Spots": 6,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19401,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1849561242,
+          39.9539044045
+        ]
+      },
+      "properties": {
+        "Location ID": 564535977,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "31st/Ludlow (Drexel Lot F)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1888484074,
+          39.9597547889
+        ]
+      },
+      "properties": {
+        "Location ID": 564554759,
+        "City": "NORRISTOWN",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 225,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Powelton/Natrona (Drexel Lot H)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19401,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2028254,
+          39.9543603
+        ]
+      },
+      "properties": {
+        "Location ID": 588371623,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "40th/Walnut (UPenn Fresh Grocer Garage)",
+        "Standard Spots": 6,
+        "Max Spots": 6,
+        "Type": "parking garage",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1706765592,
+          39.9257721752
+        ]
+      },
+      "properties": {
+        "Location ID": 620245508,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 154.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/McKean (St. Agnes Hospital)",
+        "Standard Spots": 3,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19145,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.119719285,
+          39.7084506202
+        ]
+      },
+      "properties": {
+        "Location ID": 631109324,
+        "City": "GLASSBORO",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "New Jersey",
+        "Street Address": "Lot H (Rowan University)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 8028,
+        "Zone": "South Jersey",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1618518852,
+          39.9314176118
+        ]
+      },
+      "properties": {
+        "Location ID": 660919481,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "10th/Reed (ACME Market)",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1687545776,
+          39.945514679
+        ]
+      },
+      "properties": {
+        "Location ID": 660937026,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "16th/Waverly",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19146,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1760787964,
+          39.9461708069
+        ]
+      },
+      "properties": {
+        "Location ID": 660941614,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 315,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Lombard",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19146,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2198694,
+          40.0072946
+        ]
+      },
+      "properties": {
+        "Location ID": 661411114,
+        "City": "BALA CYNWYD",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "St Asaphs/Kings Grant (One Bala Plaza)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19004,
+        "Zone": "City Avenue",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0387573242,
+          40.0722961426
+        ]
+      },
+      "properties": {
+        "Location ID": 691443211,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Roosevelt/Woodward (Evergreen Towers)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19115,
+        "Zone": "Northeast",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1811438777,
+          40.019759791
+        ]
+      },
+      "properties": {
+        "Location ID": 701412510,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 175,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Queen Ln/Stokley (Drexel Medicine)",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19129,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0635726467,
+          40.0362410185
+        ]
+      },
+      "properties": {
+        "Location ID": 712906769,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Roosevelt/Harbison (ACME Market)",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19149,
+        "Zone": "Northeast",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1657791138,
+          39.9405517578
+        ]
+      },
+      "properties": {
+        "Location ID": 745015433,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Catherine (Sunoco)",
+        "Standard Spots": 2,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1500027676,
+          40.0165041057
+        ]
+      },
+      "properties": {
+        "Location ID": 755959594,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Hunting Park (Sunoco)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19140,
+        "Zone": "Upper North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.602047558,
+          39.9517937211
+        ]
+      },
+      "properties": {
+        "Location ID": 804913592,
+        "City": "WEST CHESTER",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "D-Lot/University Ave (West Chester University)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19383,
+        "Zone": "CHESTER COUNTY",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1595886887,
+          39.9797373583
+        ]
+      },
+      "properties": {
+        "Location ID": 818398936,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 210,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Montgomery (Temple Liacouras Garage)",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19121,
+        "Zone": "Lower North Philly",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1442365647,
+          39.9473746256
+        ]
+      },
+      "properties": {
+        "Location ID": 826310532,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 210,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "2nd/Sansom",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "parking garage",
+        "Zip Code": 19106,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1540494216,
+          39.9495780372
+        ]
+      },
+      "properties": {
+        "Location ID": 826318176,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 215,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Chestnut",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19106,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1701749861,
+          39.9606589973
+        ]
+      },
+      "properties": {
+        "Location ID": 826326858,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 185,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "19th/Callowhill",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1152640086,
+          39.994509322
+        ]
+      },
+      "properties": {
+        "Location ID": 826339620,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ruth/Clearfield",
+        "Standard Spots": 1,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19134,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1499562901,
+          40.0077053364
+        ]
+      },
+      "properties": {
+        "Location ID": 826349848,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Germantown/Venango",
+        "Standard Spots": 4,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19140,
+        "Zone": "Upper North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1357253643,
+          40.0421090804
+        ]
+      },
+      "properties": {
+        "Location ID": 826392409,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Fern Rock Rail Station",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19141,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1639918238,
+          39.9294964224
+        ]
+      },
+      "properties": {
+        "Location ID": 826399732,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 312,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Morris/Passyunk",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19148,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1468920708,
+          39.9690824747
+        ]
+      },
+      "properties": {
+        "Location ID": 826422867,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "6th/Girard",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1590310761,
+          40.0953192351
+        ]
+      },
+      "properties": {
+        "Location ID": 831733655,
+        "City": "GLENSIDE",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Easton/Royal (Arcadia University at Oak Summit Apartments)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19038,
+        "Zone": "Montgomery County",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1346859058,
+          39.9704470109
+        ]
+      },
+      "properties": {
+        "Location ID": 851529828,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Frankford/Thompson",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19125,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1273047,
+          39.9471603
+        ]
+      },
+      "properties": {
+        "Location ID": 855707498,
+        "City": "CAMDEN",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "1 Market St - The Victor",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 8102,
+        "Zone": "South Jersey",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3393390885,
+          40.0334318717
+        ]
+      },
+      "properties": {
+        "Location ID": 882201266,
+        "City": "BRYN MAWR",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ithan/Lancaster (Villanova University - Main Campus)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19010,
+        "Zone": "Montgomery County",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1823661,
+          39.9577767
+        ]
+      },
+      "properties": {
+        "Location ID": 921349708,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "30th St Station (Cira Centre) - Avis Lot",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1722952761,
+          39.9424166169
+        ]
+      },
+      "properties": {
+        "Location ID": 930720293,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "18th/Fitzwater",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19146,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.203105807,
+          39.9514588181
+        ]
+      },
+      "properties": {
+        "Location ID": 930729105,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "40th/Spruce",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1746285002,
+          39.9409929598
+        ]
+      },
+      "properties": {
+        "Location ID": 930732366,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "19th/Christian",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19146,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21389,
+          39.956814
+        ]
+      },
+      "properties": {
+        "Location ID": 935803468,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "46th/Chestnut (BP)",
+        "Standard Spots": 5,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1751887041,
+          39.9723168091
+        ]
+      },
+      "properties": {
+        "Location ID": 957218756,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "24th/S College Ave",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1788409949,
+          39.966720501
+        ]
+      },
+      "properties": {
+        "Location ID": 957225708,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "25th/Pennsylvania",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19130,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1694467096,
+          39.9541744958
+        ]
+      },
+      "properties": {
+        "Location ID": 957232257,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "18th/JFK",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1703875512,
+          39.9292764813
+        ]
+      },
+      "properties": {
+        "Location ID": 957264510,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Morris",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "on street public",
+        "Zip Code": 19145,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2058865441,
+          39.9484871795
+        ]
+      },
+      "properties": {
+        "Location ID": 957269776,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "41st/Chester",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19104,
+        "Zone": "West Philly",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1733856201,
+          39.9234085083
+        ]
+      },
+      "properties": {
+        "Location ID": 957654734,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "16th/Jackson",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19145,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.159325,
+          40.074333
+        ]
+      },
+      "properties": {
+        "Location ID": 958492855,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ogontz/Cheltenham",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19150,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2592885531,
+          39.9537749674
+        ]
+      },
+      "properties": {
+        "Location ID": 961750615,
+        "City": "UPPER DARBY",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "69th/Marshall (Lukoil)",
+        "Standard Spots": 3,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19082,
+        "Zone": "Delaware County - MKTG",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.162453,
+          39.954033
+        ]
+      },
+      "properties": {
+        "Location ID": 963173328,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 280,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Arch",
+        "Standard Spots": 10,
+        "Max Spots": 9,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.176853,
+          39.950349
+        ]
+      },
+      "properties": {
+        "Location ID": 983203519,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 375,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "2118 Chancellor (22nd/Chancellor)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "private driveway",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2092672611,
+          40.007486431
+        ]
+      },
+      "properties": {
+        "Location ID": 1007680229,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "City Ave/Presidential (Presidential City)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19131,
+        "Zone": "City Avenue",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1845087111,
+          40.0302415341
+        ]
+      },
+      "properties": {
+        "Location ID": 1007702081,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Wissahickon/W Rittenhouse (Rittenhouse Hill)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1916651099,
+          39.9555816909
+        ]
+      },
+      "properties": {
+        "Location ID": 1007720252,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "34th/Market",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0851047039,
+          40.0167104602
+        ]
+      },
+      "properties": {
+        "Location ID": 1024186206,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Margaret/Orthodox",
+        "Standard Spots": 3,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19124,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1762084961,
+          39.9536323547
+        ]
+      },
+      "properties": {
+        "Location ID": 1025022537,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 340,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "22nd/Market",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1793503,
+          39.9519808
+        ]
+      },
+      "properties": {
+        "Location ID": 1025085903,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 334.75,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "24th/Sansom",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.171385286,
+          39.9444287457
+        ]
+      },
+      "properties": {
+        "Location ID": 1032420397,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 370,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "18th/South",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19146,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.244042816,
+          39.8785930179
+        ]
+      },
+      "properties": {
+        "Location ID": 1041884663,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Philadelphia International Airport - Avis Lot",
+        "Standard Spots": 2,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19153,
+        "Zone": "Southwest",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2053846,
+          39.9498728
+        ]
+      },
+      "properties": {
+        "Location ID": 1048372191,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "41st/Baltimore",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1613006592,
+          39.9493751526
+        ]
+      },
+      "properties": {
+        "Location ID": 1049106736,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Walnut (Zipvan)",
+        "Standard Spots": 2,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4426647478,
+          39.3634683621
+        ]
+      },
+      "properties": {
+        "Location ID": 1052765986,
+        "City": "ATLANTIC CITY",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "New Jersey",
+        "Street Address": "Atlantic City - Sheraton Convention Center Hotel",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 8401,
+        "Zone": "ATLANTIC CITY-MKTG",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1775396599,
+          39.9588375006
+        ]
+      },
+      "properties": {
+        "Location ID": 1072190240,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "23rd/Race St (Edgewater Apartments)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2419671086,
+          39.9577334538
+        ]
+      },
+      "properties": {
+        "Location ID": 1080280544,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "60th/Locust",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.163853203,
+          39.9330696173
+        ]
+      },
+      "properties": {
+        "Location ID": 1092542152,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "12th/Reed",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2398369878,
+          39.9620208725
+        ]
+      },
+      "properties": {
+        "Location ID": 1092546046,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "60th/Market",
+        "Standard Spots": 6,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2200354418,
+          40.0306083489
+        ]
+      },
+      "properties": {
+        "Location ID": 1092680218,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Manayunk/Connaro",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19128,
+        "Zone": "Roxborough Manayunk",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1753449,
+          39.952039
+        ]
+      },
+      "properties": {
+        "Location ID": 1100666331,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 395,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Chestnut (Zipvan)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1507938,
+          39.9409481
+        ]
+      },
+      "properties": {
+        "Location ID": 1100717212,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 395,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "4th/Bainbridge (Zipvan)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2231942847,
+          40.0019104039
+        ]
+      },
+      "properties": {
+        "Location ID": 1163039552,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "47th/E City Ave - Vista Apartment Homes",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "parking garage",
+        "Zip Code": 19131,
+        "Zone": "City Avenue",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1805304981,
+          40.0243730421
+        ]
+      },
+      "properties": {
+        "Location ID": 1163062555,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Wissahickon/School House Ln. (Charter Court Apartments)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.173203,
+          39.955348
+        ]
+      },
+      "properties": {
+        "Location ID": 1165549933,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "20th/Arch (Avis Lot)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1647772,
+          39.9491834
+        ]
+      },
+      "properties": {
+        "Location ID": 1176208932,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Walnut Hyatt Bellevue (in the Avis garage)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "parking garage",
+        "Zip Code": 19102,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2059124246,
+          40.0034247033
+        ]
+      },
+      "properties": {
+        "Location ID": 1185833785,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Monument Rd/Conshohocken Ave - Imperial Towers",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19131,
+        "Zone": "City Avenue",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.182130523,
+          40.0257859705
+        ]
+      },
+      "properties": {
+        "Location ID": 1197386374,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Wissahickon/School House Ln. (Alden Park Apartments)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2197624577,
+          40.0231231318
+        ]
+      },
+      "properties": {
+        "Location ID": 1206990076,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Main/Lock St.",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19127,
+        "Zone": "Roxborough Manayunk",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2321982,
+          39.9277853
+        ]
+      },
+      "properties": {
+        "Location ID": 1228813859,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "63rd/Woodland",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19142,
+        "Zone": "Southwest",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1909173,
+          39.9360267
+        ]
+      },
+      "properties": {
+        "Location ID": 1228852732,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "28th/Reed",
+        "Standard Spots": 1,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19146,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1845939526,
+          39.9219660472
+        ]
+      },
+      "properties": {
+        "Location ID": 1249249942,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "23rd/Ritner (Pepboys)",
+        "Standard Spots": 12,
+        "Max Spots": 14,
+        "Type": "surface lot",
+        "Zip Code": 19145,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1214278079,
+          39.9782898428
+        ]
+      },
+      "properties": {
+        "Location ID": 1273047215,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "E Cumberland/ Gaul St.",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19125,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1475247271,
+          40.0271854041
+        ]
+      },
+      "properties": {
+        "Location ID": 1317307737,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Rockland",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19141,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1405636637,
+          39.990905548
+        ]
+      },
+      "properties": {
+        "Location ID": 1317318786,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "5th/Huntingdon",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19133,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.138032,
+          39.9934442
+        ]
+      },
+      "properties": {
+        "Location ID": 1317327291,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "4th/ W Somerset",
+        "Standard Spots": 3,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19133,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1377371933,
+          39.9902054496
+        ]
+      },
+      "properties": {
+        "Location ID": 1317342561,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "3rd/Huntingdon",
+        "Standard Spots": 3,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19133,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1738998,
+          40.0346226
+        ]
+      },
+      "properties": {
+        "Location ID": 1317350164,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Germantown/Armat",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1071247,
+          40.0109677
+        ]
+      },
+      "properties": {
+        "Location ID": 1317362634,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "I /E Hunting Park (Pepboys)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19124,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.170086,
+          39.945981
+        ]
+      },
+      "properties": {
+        "Location ID": 1320422582,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "17th/Pine (UA) - CLOSED LOCATION",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.155715232,
+          39.9475798725
+        ]
+      },
+      "properties": {
+        "Location ID": 1361007068,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 412,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Walnut (Walnut Towers Garage)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1512934,
+          39.9615648
+        ]
+      },
+      "properties": {
+        "Location ID": 1365189636,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Spring Garden",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1857547,
+          39.9562497
+        ]
+      },
+      "properties": {
+        "Location ID": 1365226480,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 155,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "3125 JFK",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1684808792,
+          39.9493319114
+        ]
+      },
+      "properties": {
+        "Location ID": 1365818625,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "16th/Chancellor",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1809071,
+          39.9499703
+        ]
+      },
+      "properties": {
+        "Location ID": 1365827322,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "25th/Locust (On Street)",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "on street public",
+        "Zip Code": 19103,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2016853,
+          39.9499784
+        ]
+      },
+      "properties": {
+        "Location ID": 1378798420,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 182.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "39th/Baltimore",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1653817,
+          39.9424272
+        ]
+      },
+      "properties": {
+        "Location ID": 1400544551,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Bainbridge",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3505573307,
+          39.9048130321
+        ]
+      },
+      "properties": {
+        "Location ID": 1424830678,
+        "City": "SWARTHMORE",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Benjamin West Parking Lot",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19081,
+        "Zone": "Delaware County - MKTG",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2439955355,
+          39.8787184264
+        ]
+      },
+      "properties": {
+        "Location ID": 1455155896,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 1,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Philadelphia International Airport - Avis Lot ONE>WAY",
+        "Standard Spots": 0,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19153,
+        "Zone": "Southwest",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.158645,
+          39.9576817
+        ]
+      },
+      "properties": {
+        "Location ID": 1495107274,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "12th/Vine",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1721809344,
+          39.9556545887
+        ]
+      },
+      "properties": {
+        "Location ID": 1620984336,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 360.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "20th/Arch - PARKWAY LOT",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19102,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.175538627,
+          39.9529715909
+        ]
+      },
+      "properties": {
+        "Location ID": 1620987855,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 360.5,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "21st/Ludlow",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19102,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1873387,
+          39.9524388
+        ]
+      },
+      "properties": {
+        "Location ID": 1627727886,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 205,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "31st/Walnut Left Bank Apartments",
+        "Standard Spots": 1,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1572336,
+          39.9553197
+        ]
+      },
+      "properties": {
+        "Location ID": 1658820403,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 190,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "11th/Race - Chinatown Garage",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2353634455,
+          40.0552281921
+        ]
+      },
+      "properties": {
+        "Location ID": 1659669003,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ridge/Evergreen - The Ridge Apartments",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19128,
+        "Zone": "Roxborough Manayunk",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.206981,
+          40.021491
+        ]
+      },
+      "properties": {
+        "Location ID": 1660325948,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "203 Rock Street - Rock Hill Apartments",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19128,
+        "Zone": "Roxborough Manayunk",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1414441,
+          39.9453341
+        ]
+      },
+      "properties": {
+        "Location ID": 1660696998,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Columbus/Dock (Hilton Penn's Landing) AVIS Garage",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "parking garage",
+        "Zip Code": 19106,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1837178772,
+          40.0124078768
+        ]
+      },
+      "properties": {
+        "Location ID": 1667559485,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Henry/Indian Queen - Falls Center",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19129,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1808095582,
+          39.9377541101
+        ]
+      },
+      "properties": {
+        "Location ID": 1668491318,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "22nd/Federal",
+        "Standard Spots": 1,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19146,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1543348651,
+          39.9447495475
+        ]
+      },
+      "properties": {
+        "Location ID": 1671558597,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 365,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Delancey",
+        "Standard Spots": 4,
+        "Max Spots": 3,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1491101,
+          39.9642201
+        ]
+      },
+      "properties": {
+        "Location ID": 1673355975,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "7th/Fairmount - Federal Donuts",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1599557,
+          39.9617744
+        ]
+      },
+      "properties": {
+        "Location ID": 1673367701,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Spring Garden",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2016302552,
+          39.9579924291
+        ]
+      },
+      "properties": {
+        "Location ID": 1678828448,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "40th/Filbert",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1846642,
+          39.980927
+        ]
+      },
+      "properties": {
+        "Location ID": 1681842176,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Oxford/Glenwood",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19121,
+        "Zone": "Upper North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.221875119,
+          39.9631433392
+        ]
+      },
+      "properties": {
+        "Location ID": 1681862486,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "51st/Race",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19139,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5496168783,
+          39.7370997648
+        ]
+      },
+      "properties": {
+        "Location ID": 1682326169,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "Wilmington Train Station (Avis-Budget Lot)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1465289193,
+          39.9545351093
+        ]
+      },
+      "properties": {
+        "Location ID": 1691689645,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "4th/Race - EZ Park Lot",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19106,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5503532,
+          39.7417725
+        ]
+      },
+      "properties": {
+        "Location ID": 1691800949,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "6th/Market",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5484919,
+          39.7445411
+        ]
+      },
+      "properties": {
+        "Location ID": 1693324538,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "9th/Market",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5516171841,
+          39.739714175
+        ]
+      },
+      "properties": {
+        "Location ID": 1693336128,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "3rd/Market",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.548929927,
+          39.7463560906
+        ]
+      },
+      "properties": {
+        "Location ID": 1693576419,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "10th/Orange",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "on street public",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5582655052,
+          39.7354070017
+        ]
+      },
+      "properties": {
+        "Location ID": 1693596288,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "Harlan/Justison",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street public",
+        "Zip Code": 19801,
+        "Zone": "other",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1855929354,
+          40.0243801994
+        ]
+      },
+      "properties": {
+        "Location ID": 1700261994,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "School House/Oak - Falls Village Apartments",
+        "Standard Spots": 2,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.210579,
+          40.070008
+        ]
+      },
+      "properties": {
+        "Location ID": 1700350169,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Seminole/Gravers (Highland Station)",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19118,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.171269,
+          39.9793
+        ]
+      },
+      "properties": {
+        "Location ID": 1701038781,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "22nd/Oxford",
+        "Standard Spots": 5,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19121,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1557083111,
+          39.9526515
+        ]
+      },
+      "properties": {
+        "Location ID": 1702002001,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 210,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "10th/Filbert",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1559093386,
+          39.9363252077
+        ]
+      },
+      "properties": {
+        "Location ID": 1705187315,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Passyunk/Carpenter",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1671482,
+          39.9454182
+        ]
+      },
+      "properties": {
+        "Location ID": 1707008131,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 260,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "15th/Waverly",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19102,
+        "Zone": "Rittenhouse",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1328951209,
+          39.9758194535
+        ]
+      },
+      "properties": {
+        "Location ID": 1719911550,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Frankford/Palmer",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19125,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1614935442,
+          40.0820385305
+        ]
+      },
+      "properties": {
+        "Location ID": 1738292311,
+        "City": "WYNCOTE",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Limekiln Pike/Greenwood (Towers At Wyncote)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19095,
+        "Zone": "Montgomery County",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1644055056,
+          40.0413150084
+        ]
+      },
+      "properties": {
+        "Location ID": 1738318312,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Musgrave/Church",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1626121534,
+          40.0424389044
+        ]
+      },
+      "properties": {
+        "Location ID": 1738345675,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 150,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Church/Crowson - Fieldview Apartments",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1633400159,
+          39.9450240919
+        ]
+      },
+      "properties": {
+        "Location ID": 1741004864,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Waverly",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "private driveway",
+        "Zip Code": 19147,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5293182,
+          39.9322853
+        ]
+      },
+      "properties": {
+        "Location ID": 1760143443,
+        "City": "CHEYNEY",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Lot C - Marcus Foster Student Center (Cheyney University)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19319,
+        "Zone": "Delaware County - MKTG",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1580711,
+          39.9536664
+        ]
+      },
+      "properties": {
+        "Location ID": 1774130646,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 270,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "11th/Arch - Gallery II Garage",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "parking garage",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233934,
+          39.9958264
+        ]
+      },
+      "properties": {
+        "Location ID": 1780656651,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "54th/City Ave - behind Larry's Steaks",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19131,
+        "Zone": "City Avenue",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1584656004,
+          40.0422822345
+        ]
+      },
+      "properties": {
+        "Location ID": 1791240136,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "f",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Chew/Wister La Salle University ONE>WAY",
+        "Standard Spots": 1,
+        "Max Spots": 0,
+        "Type": "surface lot",
+        "Zip Code": 19138,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.162891,
+          39.9481698
+        ]
+      },
+      "properties": {
+        "Location ID": 1804227687,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 360,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Locust/Juniper",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153919,
+          39.955608
+        ]
+      },
+      "properties": {
+        "Location ID": 1804405457,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 220,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "9th/Race",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153919,
+          39.955608
+        ]
+      },
+      "properties": {
+        "Location ID": 1804433168,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "9th/Race (Zipvan)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3428263,
+          40.0321402
+        ]
+      },
+      "properties": {
+        "Location ID": 1813535616,
+        "City": "VILLANOVA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Ithan/Aldwyn (Villanova University - Stanford Hall)",
+        "Standard Spots": 2,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19085,
+        "Zone": "Montgomery County",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1879319,
+          39.9518734
+        ]
+      },
+      "properties": {
+        "Location ID": 1817954708,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "32nd/Chancellor â€“ The Palestra",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5459448,
+          39.7490192
+        ]
+      },
+      "properties": {
+        "Location ID": 1820971110,
+        "City": "WILMINGTON",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Delaware",
+        "Street Address": "13th/Market",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19801,
+        "Zone": "Wilmington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.171616987,
+          39.8950733314
+        ]
+      },
+      "properties": {
+        "Location ID": 1845703462,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Rouse/Intrepid (Navy Yard)",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "on street private",
+        "Zip Code": 19112,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1631209,
+          39.9560931
+        ]
+      },
+      "properties": {
+        "Location ID": 1868712067,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 315,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Race",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19102,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1869845,
+          40.0404081
+        ]
+      },
+      "properties": {
+        "Location ID": 1884562212,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Greene/Johnson",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1476196,
+          39.9602936
+        ]
+      },
+      "properties": {
+        "Location ID": 1884803270,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "5th/Spring Garden",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Kensington",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1384909,
+          39.9603816
+        ]
+      },
+      "properties": {
+        "Location ID": 1887626448,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Front/Spring Garden",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4140374,
+          41.0225741
+        ]
+      },
+      "properties": {
+        "Location ID": 1906729558,
+        "City": "BLOOMSBURG",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Lions Gate Road/Cub Circle",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 17815,
+        "Zone": "other",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.726786,
+          39.94782
+        ]
+      },
+      "properties": {
+        "Location ID": 1929641894,
+        "City": "YORK",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "York College of PA : The Creek Crossing Shuttle Stop",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 17403,
+        "Zone": "other",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9881939,
+          40.1579568
+        ]
+      },
+      "properties": {
+        "Location ID": 1930421619,
+        "City": "MECHANICSBURG",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Larsen Student Union - Messiah College",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 17055,
+        "Zone": "CENTRAL PA",
+        "University Status": "on_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1518412552,
+          39.9701131306
+        ]
+      },
+      "properties": {
+        "Location ID": 1948001176,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "9th/Girard - Behind Larry's Steaks",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.141222,
+          40.052897
+        ]
+      },
+      "properties": {
+        "Location ID": 1948012858,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/66th Avenue",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19126,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2349138,
+          39.979488
+        ]
+      },
+      "properties": {
+        "Location ID": 1955594836,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "56th/Lancaster",
+        "Standard Spots": 4,
+        "Max Spots": 6,
+        "Type": "surface lot",
+        "Zip Code": 19131,
+        "Zone": "West Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1860924,
+          40.0709429
+        ]
+      },
+      "properties": {
+        "Location ID": 1955602059,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Stenton/McPherson - Chestnut Terrace Apartments",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19150,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1819072,
+          39.95572
+        ]
+      },
+      "properties": {
+        "Location ID": 1955771363,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 0,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "30th Street Station - UNDERGROUND Avis Garage",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "parking garage",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "off_campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1311342165,
+          40.0364203598
+        ]
+      },
+      "properties": {
+        "Location ID": 1959648894,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "5th/Olney",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19120,
+        "Zone": "Olney Oak Lane",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1752637,
+          40.0339131
+        ]
+      },
+      "properties": {
+        "Location ID": 1959659246,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Greene/Armat",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19144,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1848985902,
+          39.9977207881
+        ]
+      },
+      "properties": {
+        "Location ID": 1960297017,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "33rd/Lehigh",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19132,
+        "Zone": "Upper North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0429241171,
+          40.0350502407
+        ]
+      },
+      "properties": {
+        "Location ID": 1960305079,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Frankford/St. Vincent",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "surface lot",
+        "Zip Code": 19135,
+        "Zone": "Northeast",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1618786653,
+          39.9604797054
+        ]
+      },
+      "properties": {
+        "Location ID": 1974093432,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 375,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Noble",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Fairmount",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1583114,
+          39.9591319
+        ]
+      },
+      "properties": {
+        "Location ID": 1974103893,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 375,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "12th/Callowhill",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19123,
+        "Zone": "Lower North Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1421594,
+          39.9496824
+        ]
+      },
+      "properties": {
+        "Location ID": 1974119631,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 500,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Front/Market",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19106,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1716721,
+          39.9551574
+        ]
+      },
+      "properties": {
+        "Location ID": 1974127373,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 500,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "1900 Arch Street",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1623009,
+          39.9481623
+        ]
+      },
+      "properties": {
+        "Location ID": 1987636402,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 412,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "13th/Locust",
+        "Standard Spots": 1,
+        "Max Spots": 1,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0591995,
+          40.0473356
+        ]
+      },
+      "properties": {
+        "Location ID": 1987675701,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 125,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Cottman/Hanford (Roosevelt Mall)",
+        "Standard Spots": 2,
+        "Max Spots": 4,
+        "Type": "surface lot",
+        "Zip Code": 19149,
+        "Zone": "Northeast",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.177758,
+          39.953924
+        ]
+      },
+      "properties": {
+        "Location ID": 1987694251,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 400,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "23rd/Market",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2698588,
+          39.9635738
+        ]
+      },
+      "properties": {
+        "Location ID": 2006820380,
+        "City": "UPPER DARBY",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 200,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "7424 West Chester Pike (Exxon)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19082,
+        "Zone": "Delaware County - MKTG",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1691064,
+          39.9526702
+        ]
+      },
+      "properties": {
+        "Location ID": 2008478395,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 334.75,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "18th/Market (Second Floor)",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1726085,
+          39.953513
+        ]
+      },
+      "properties": {
+        "Location ID": 2015239045,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 500,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "20th/Market",
+        "Standard Spots": 4,
+        "Max Spots": 4,
+        "Type": "parking garage",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1682876836,
+          39.9332007289
+        ]
+      },
+      "properties": {
+        "Location ID": 2019506146,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 250,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "Broad/Reed",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19147,
+        "Zone": "South Philly",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1996462,
+          39.9568675
+        ]
+      },
+      "properties": {
+        "Location ID": 2020250024,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 325,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "39th/Market",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19104,
+        "Zone": "University City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1774014,
+          39.9561561
+        ]
+      },
+      "properties": {
+        "Location ID": 2021290216,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 350,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "23rd/Arch",
+        "Standard Spots": 4,
+        "Max Spots": 5,
+        "Type": "surface lot",
+        "Zip Code": 19103,
+        "Zone": "Center City West",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153691146,
+          39.9495873944
+        ]
+      },
+      "properties": {
+        "Location ID": 2031667336,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 400,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "733 Chestnut Street Garage",
+        "Standard Spots": 3,
+        "Max Spots": 3,
+        "Type": "parking garage",
+        "Zip Code": 19106,
+        "Zone": "Washington Square",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1536951,
+          39.9507578
+        ]
+      },
+      "properties": {
+        "Location ID": 2031676071,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 450,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "8th/Market",
+        "Standard Spots": 2,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19107,
+        "Zone": "Chinatown/Old City",
+        "University Status": "standard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.191144,
+          40.058954
+        ]
+      },
+      "properties": {
+        "Location ID": 2032436452,
+        "City": "PHILADELPHIA",
+        "Metro": "philadelphia_region",
+        "Is Online": "t",
+        "One Way Spots": 0,
+        "Parking Cost": 100,
+        "Is Service Location": "f",
+        "State": "Pennsylvania",
+        "Street Address": "7142 Germantown Ave. Lot",
+        "Standard Spots": 1,
+        "Max Spots": 2,
+        "Type": "surface lot",
+        "Zip Code": 19119,
+        "Zone": "Germantown Chestnut Hill",
+        "University Status": "standard"
+      }
+    }
+  ]
+}

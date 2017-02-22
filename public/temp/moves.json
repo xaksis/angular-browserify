@@ -1,0 +1,728 @@
+[
+  {
+    "vehicle_class": "SUV, Best, Non-Ford",
+    "source": {
+      "id": 68890161,
+      "address": "15th/Spruce"
+    },
+    "destination": {
+      "id": 69118433,
+      "address": "30th St Stn - Little Market St."
+    }
+  },
+  {
+    "vehicle_class": "Minivan, Non-Ford",
+    "source": {
+      "id": 68891521,
+      "address": "8th/Locust"
+    },
+    "destination": {
+      "id": 166992322,
+      "address": "47th/Woodland"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Best, Non-Ford",
+    "source": {
+      "id": 68893961,
+      "address": "11th/Pine"
+    },
+    "destination": {
+      "id": 69118433,
+      "address": "30th St Stn - Little Market St."
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 68894164,
+      "address": "15th/Pine"
+    },
+    "destination": {
+      "id": 502945298,
+      "address": "Mt Pleasant/Lincoln (Mt Pleasant Arms)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 68894164,
+      "address": "15th/Pine"
+    },
+    "destination": {
+      "id": 1813535616,
+      "address": "Ithan/Aldwyn (Villanova University - Stanford Hall)"
+    }
+  },
+  {
+    "vehicle_class": "Minivan, Ford",
+    "source": {
+      "id": 69118433,
+      "address": "30th St Stn - Little Market St."
+    },
+    "destination": {
+      "id": 388037882,
+      "address": "34th/Chestnut (UPenn Lot 37)"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Ford",
+    "source": {
+      "id": 69118440,
+      "address": "Spruce/Juniper St."
+    },
+    "destination": {
+      "id": 701412510,
+      "address": "Queen Ln/Stokley (Drexel Medicine)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Better, Non-Ford",
+    "source": {
+      "id": 78778372,
+      "address": "11th/Christian"
+    },
+    "destination": {
+      "id": 69118440,
+      "address": "Spruce/Juniper St."
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": 120610788,
+      "address": "8th/Christian"
+    },
+    "destination": {
+      "id": 502953504,
+      "address": "Mt Airy/Lowber (Stenton Plaza)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Ford",
+    "source": {
+      "id": 136878988,
+      "address": "17th/Pine"
+    },
+    "destination": {
+      "id": 339141082,
+      "address": "Chew/Wister (La Salle University Security Headquarters)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 136883854,
+      "address": "10th/Arch"
+    },
+    "destination": {
+      "id": 166986243,
+      "address": "12th/Walnut (Parkway Garage)"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": 166986243,
+      "address": "12th/Walnut (Parkway Garage)"
+    },
+    "destination": {
+      "id": 1620984336,
+      "address": "20th/Arch - PARKWAY LOT"
+    }
+  },
+  {
+    "vehicle_class": "Wagon, Non-Ford",
+    "source": {
+      "id": 166997149,
+      "address": "Sydenham/Jefferson"
+    },
+    "destination": {
+      "id": 136878988,
+      "address": "17th/Pine"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 181958191,
+      "address": "15th/Tasker"
+    },
+    "destination": {
+      "id": 1092680218,
+      "address": "Manayunk/Connaro"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Ford",
+    "source": {
+      "id": 310451744,
+      "address": "54th/Baltimore (8 Brothers Food Market)"
+    },
+    "destination": {
+      "id": 339141082,
+      "address": "Chew/Wister (La Salle University Security Headquarters)"
+    }
+  },
+  {
+    "vehicle_class": "Cargo Van",
+    "source": {
+      "id": 339141082,
+      "address": "Chew/Wister (La Salle University Security Headquarters)"
+    },
+    "destination": {
+      "id": 69118433,
+      "address": "30th St Stn - Little Market St."
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 339141082,
+      "address": "Chew/Wister (La Salle University Security Headquarters)"
+    },
+    "destination": {
+      "id": 588371623,
+      "address": "40th/Walnut (UPenn Fresh Grocer Garage)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 502953504,
+      "address": "Mt Airy/Lowber (Stenton Plaza)"
+    },
+    "destination": {
+      "id": 120610788,
+      "address": "8th/Christian"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Better, Non-Ford",
+    "source": {
+      "id": 559438812,
+      "address": "LumberYard Garage"
+    },
+    "destination": {
+      "id": 111019428,
+      "address": "21st/Chestnut"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 559438812,
+      "address": "LumberYard Garage"
+    },
+    "destination": {
+      "id": 1668491318,
+      "address": "22nd/Federal"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 563250617,
+      "address": "35th/Race (Drexel Lot D)"
+    },
+    "destination": {
+      "id": 78778372,
+      "address": "11th/Christian"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 563250617,
+      "address": "35th/Race (Drexel Lot D)"
+    },
+    "destination": {
+      "id": 2015239045,
+      "address": "20th/Market"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 588371623,
+      "address": "40th/Walnut (UPenn Fresh Grocer Garage)"
+    },
+    "destination": {
+      "id": 68894164,
+      "address": "15th/Pine"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 588371623,
+      "address": "40th/Walnut (UPenn Fresh Grocer Garage)"
+    },
+    "destination": {
+      "id": 660919481,
+      "address": "10th/Reed (ACME Market)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Ford",
+    "source": {
+      "id": 660919481,
+      "address": "10th/Reed (ACME Market)"
+    },
+    "destination": {
+      "id": 563250617,
+      "address": "35th/Race (Drexel Lot D)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 826310532,
+      "address": "2nd/Sansom"
+    },
+    "destination": {
+      "id": 502953504,
+      "address": "Mt Airy/Lowber (Stenton Plaza)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Better, Non-Ford",
+    "source": {
+      "id": 930729105,
+      "address": "40th/Spruce"
+    },
+    "destination": {
+      "id": 187530706,
+      "address": "52nd/Chestnut"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 935803468,
+      "address": "46th/Chestnut (BP)"
+    },
+    "destination": {
+      "id": 1228852732,
+      "address": "28th/Reed"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 958492855,
+      "address": "Ogontz/Cheltenham"
+    },
+    "destination": {
+      "id": 358785664,
+      "address": "Radnor Parking Lot (Bryn Mawr College)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 963173328,
+      "address": "13th/Arch"
+    },
+    "destination": {
+      "id": 498431977,
+      "address": "Frankford/Master"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 963173328,
+      "address": "13th/Arch"
+    },
+    "destination": {
+      "id": 1681862486,
+      "address": "51st/Race"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Better, Non-Ford",
+    "source": {
+      "id": 1025085903,
+      "address": "24th/Sansom"
+    },
+    "destination": {
+      "id": 69118433,
+      "address": "30th St Stn - Little Market St."
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1048372191,
+      "address": "41st/Baltimore"
+    },
+    "destination": {
+      "id": 983203519,
+      "address": "2118 Chancellor (22nd/Chancellor)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1185833785,
+      "address": "Monument Rd/Conshohocken Ave - Imperial Towers"
+    },
+    "destination": {
+      "id": 68893961,
+      "address": "11th/Pine"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 68890161,
+      "address": "15th/Spruce"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 68890352,
+      "address": "18th/Market (3rd floor)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 295289299,
+      "address": "47th/Baltimore"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 310451744,
+      "address": "54th/Baltimore (8 Brothers Food Market)"
+    }
+  },
+  {
+    "vehicle_class": "Minivan, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 415878492,
+      "address": "Wissahickon/Chelten (Park Heights)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1249249942,
+      "address": "23rd/Ritner (Pepboys)"
+    },
+    "destination": {
+      "id": 1930421619,
+      "address": "Larsen Student Union - Messiah College"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1317327291,
+      "address": "4th/ W Somerset"
+    },
+    "destination": {
+      "id": 68893322,
+      "address": "15th/Spring Garden"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Ford",
+    "source": {
+      "id": 1317362634,
+      "address": "I /E Hunting Park (Pepboys)"
+    },
+    "destination": {
+      "id": 588371623,
+      "address": "40th/Walnut (UPenn Fresh Grocer Garage)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1365189636,
+      "address": "8th/Spring Garden"
+    },
+    "destination": {
+      "id": 111019428,
+      "address": "21st/Chestnut"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Ford",
+    "source": {
+      "id": 1365226480,
+      "address": "3125 JFK"
+    },
+    "destination": {
+      "id": 339141082,
+      "address": "Chew/Wister (La Salle University Security Headquarters)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1620984336,
+      "address": "20th/Arch - PARKWAY LOT"
+    },
+    "destination": {
+      "id": 1007720252,
+      "address": "34th/Market"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1658820403,
+      "address": "11th/Race - Chinatown Garage"
+    },
+    "destination": {
+      "id": 111019428,
+      "address": "21st/Chestnut"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1660696998,
+      "address": "Columbus/Dock (Hilton Penn's Landing) AVIS Garage"
+    },
+    "destination": {
+      "id": 563245529,
+      "address": "36th/Filbert (Drexel Lot C)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1660696998,
+      "address": "Columbus/Dock (Hilton Penn's Landing) AVIS Garage"
+    },
+    "destination": {
+      "id": 930729105,
+      "address": "40th/Spruce"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1660696998,
+      "address": "Columbus/Dock (Hilton Penn's Landing) AVIS Garage"
+    },
+    "destination": {
+      "id": 1025085903,
+      "address": "24th/Sansom"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1671558597,
+      "address": "8th/Delancey"
+    },
+    "destination": {
+      "id": 166985227,
+      "address": "Front/Christian"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1700261994,
+      "address": "School House/Oak - Falls Village Apartments"
+    },
+    "destination": {
+      "id": 1760143443,
+      "address": "Lot C - Marcus Foster Student Center (Cheyney University)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Ford",
+    "source": {
+      "id": 1760143443,
+      "address": "Lot C - Marcus Foster Student Center (Cheyney University)"
+    },
+    "destination": {
+      "id": 563250617,
+      "address": "35th/Race (Drexel Lot D)"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1906729558,
+      "address": "Lions Gate Road/Cub Circle"
+    },
+    "destination": {
+      "id": 826310532,
+      "address": "2nd/Sansom"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 1948001176,
+      "address": "9th/Girard - Behind Larry's Steaks"
+    },
+    "destination": {
+      "id": 111019428,
+      "address": "21st/Chestnut"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 1959659246,
+      "address": "Greene/Armat"
+    },
+    "destination": {
+      "id": 1495107274,
+      "address": "12th/Vine"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": 2015239045,
+      "address": "20th/Market"
+    },
+    "destination": {
+      "id": 660919481,
+      "address": "10th/Reed (ACME Market)"
+    }
+  },
+  {
+    "vehicle_class": "4-door, Good, Non-Ford",
+    "source": {
+      "id": 2032436452,
+      "address": "7142 Germantown Ave. Lot"
+    },
+    "destination": {
+      "id": 68891521,
+      "address": "8th/Locust"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 166992322,
+      "address": "47th/Woodland"
+    }
+  },
+  {
+    "vehicle_class": "5-door, Good, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 166997149,
+      "address": "Sydenham/Jefferson"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 414635625,
+      "address": "Ogontz/Homer (Ogontz Plaza)"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 548784714,
+      "address": "Broad/Godfrey"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 564554759,
+      "address": "Powelton/Natrona (Drexel Lot H)"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 804913592,
+      "address": "D-Lot/University Ave (West Chester University)"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 963173328,
+      "address": "13th/Arch"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 1365226480,
+      "address": "3125 JFK"
+    }
+  },
+  {
+    "vehicle_class": "SUV, Better, Non-Ford",
+    "source": {
+      "id": "Infleet",
+      "address": "Infleet"
+    },
+    "destination": {
+      "id": 1668491318,
+      "address": "22nd/Federal"
+    }
+  }
+]

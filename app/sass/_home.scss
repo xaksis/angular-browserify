@@ -1,0 +1,24 @@
+.top-panel{
+	height: 630px;
+	position: relative;
+	background: url('../images/cloudbg.png') no-repeat center center;
+	background-size: 100% 95%;
+	background-position: 0px 0px;
+}
+
+.top-panel__header{
+	position: absolute;
+	left: 6%;
+	bottom: 90px;
+	font-size: 45px;
+	color: $text-light-primary;
+}
+
+.top-panel__header--small{
+	position: absolute;
+	left: 7%;
+	bottom: 70px;
+	color: $text-light-secondary;
+	font-weight: normal;
+}
+

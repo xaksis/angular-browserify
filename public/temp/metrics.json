@@ -1,0 +1,10 @@
+{
+	"reservations": {
+		"historic": 200000,
+		"optimized": 340000
+	},
+	"revenue": {
+		"historic": 140000000,
+		"optimized": 234400000
+	} 
+}

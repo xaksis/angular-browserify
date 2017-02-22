@@ -1,0 +1,49 @@
+<div class="col-xs-12">
+	<div sidebar ng-style="{'min-height': sidebarHeight+'px'}" class="side-bar">
+		<a href="" ng-click="hideSidebar();" class="side-bar__hide-link">
+			<i class="fa fa-angle-double-left"></i>
+		</a>
+		<a href="" ng-click="showSidebar();" class="side-bar__show-link col-secondary border-primary-right" ng-style="{'min-height': sidebarHeight+'px'}">
+			<i class="fa fa-angle-double-right"></i>
+		</a>
+		<div class="row">
+			<div class="col-xs-12 no-padding">
+				<div class="sidebar-title">
+					<h5>Philadelphia Zones</h5>
+				</div>
+				<ul class="sidebar-nav">
+					<li class="nav-item" ng-repeat="zone in zones">
+						<a href="" ui-sref="zone.name" ui-sref-active="active">[[zone.name]]</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="content-with-sidebar">
+		<div class="row">
+			<div class="col-md-7 space-bottom">
+				<div leaflet-map map-data="mapData" pod-data="mapPods" />
+				<div metrics metrics-data="metricsData" />
+				<h4>Number of Allowed Moves</h4>
+				<div>
+				    <rzslider
+         				rz-slider-model="moveSlider.value"
+         				rz-slider-options="moveSlider.options"></rzslider>
+				</div>
+				<div class="text-right space-top">
+					<button class="btn btn-primary">
+						<i class="fa fa-gear"></i> Reoptimize
+					</button>
+				</div>
+			</div>
+			<div class="col-md-5 border-primary-left space-top col-body">
+				<div fleet-profile fleet-data="fleetProfile" />	
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 border-primary-top">
+				<div moves moves-data="movesData" />
+			</div>
+		</div>
+	</div>
+</div>

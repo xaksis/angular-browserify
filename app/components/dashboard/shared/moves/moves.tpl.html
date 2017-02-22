@@ -1,0 +1,34 @@
+<h4>Moves</h4>
+
+<table class="table table-bordered table-striped" st-table="displayedCollection" st-safe-src="movesData">
+	<thead>
+		<tr>
+			<th></th>
+			<th colspan="2">From</th>
+			<th colspan="2">To</th>
+		</tr>
+		<tr>
+			<th st-sort="vehicle_class">Vehicle Class</th>
+			<th st-sort="source.id">Location ID</th>
+			<th st-sort="source.address">Address</th>
+			<th st-sort="destination.id">Location ID</th>
+			<th st-sort="destination.address" >Address</th>
+		</tr>
+		<tr>
+			<th><input type="text" class="form-control" placeholder="" st-search="vehicle_class" /></th>
+			<th><input type="text" class="form-control" placeholder="" st-search="source.id" /></th>
+			<th><input type="text" class="form-control" placeholder="" st-search="source.address" /></th>
+			<th><input type="text" class="form-control" placeholder="" st-search="destination.id" /></th>
+			<th><input type="text" class="form-control" placeholder="" st-search="destination.address" /></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="row in displayedCollection">
+			<td>[[row.vehicle_class]]</td>
+			<td>[[row.source.id]]</td>
+			<td>[[row.source.address]]</td>
+			<td>[[row.destination.id]]</td>
+			<td>[[row.destination.address]]</td>
+		</tr>
+	</tbody>
+</table>

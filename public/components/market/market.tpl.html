@@ -1,0 +1,33 @@
+<div class="dashboard">
+	<div navbar title="'Zipcar Dashboard'"></div>
+	<div class="row main-content">
+		<div class="col-xs-12">
+			<div sidebar ng-style="{'min-height': sidebarHeight+'px'}" class="side-bar">
+				<a href="" ng-click="hideSidebar();" class="side-bar__hide-link">
+					<i class="fa fa-angle-double-left"></i>
+				</a>
+				<a href="" ng-click="showSidebar();" class="side-bar__show-link col-secondary border-primary-right" ng-style="{'min-height': sidebarHeight+'px'}">
+					<i class="fa fa-angle-double-right"></i>
+				</a>
+				<div class="row">
+					<div class="col-xs-12 no-padding">
+						<div class="sidebar-title"><h5>Philadelphia</h5></div>
+						<ul class="sidebar-nav">
+							<li class="nav-item"><a href="" ui-sref="dashboard.pareto" ui-sref-active="active">Sales Pareto Analysis</a></li>
+							<li class="nav-item"><a href="" ui-sref="dashboard.quadrant" ui-sref-active="active">Quadrant Analysis</a></li>
+							<li class="nav-item"><a href="" ui-sref="dashboard.flat" ui-sref-active="active">Betting Analysis</a></li>
+							<li class="nav-item"><a href="" ui-sref="dashboard.scorecard" ui-sref-active="active">Buy Accuracy Scorecard</a></li>
+							<li class="nav-item hidden"><a href="" ui-sref="dashboard.allocation" ui-sref-active="active">Allocation Variance</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="content-with-sidebar">
+				<div controls></div>
+				<!-- <div upload></div> -->
+				<ui-view class="chart-view">
+				</ui-view>
+			</div>
+		</div>
+	</div>
+</div>

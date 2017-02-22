@@ -1,0 +1,37 @@
+.sidebar-title{
+	h5{
+		margin: 10px 0px;
+		padding: 0px 20px;
+	}
+}
+.sidebar-nav{
+	margin-top: 20px;
+	list-style-type: none;
+	padding: 0px;
+	.nav-item{
+		&:first-child{
+			border-top: 1px solid #cfd6d9;
+		}
+	}
+	.nav-item>a{
+		padding: 0px 20px;
+		display: block;
+		line-height: 40px;
+		border-bottom: 1px solid #cfd6d9;
+		border-top: 1px solid #eff6f9;
+		position: relative;
+		&.active{
+			background: white;
+			&::after{
+				content: "";
+				position: absolute;
+				display: block;
+				background: white;
+				width: 10px;
+				height: 100%;
+				right: -5px;
+				top: 0px;
+			}
+		}
+	}
+}

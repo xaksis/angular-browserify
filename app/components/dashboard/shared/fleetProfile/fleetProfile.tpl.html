@@ -1,0 +1,18 @@
+<div class="clearfix">
+	<h4 class="pull-left">Fleet Profile</h4>
+	<a href="" ng-click="editClicked()" class="edit-fleet-link pull-left"><i class="fa fa-pencil"></i> Edit</a>
+</div>
+<table st-table="displayedCollection" st-safe-src="fleetData" class="table">
+	<thead>
+		<tr>
+			<th class="">Vehicle Class</th>
+			<th class="text-right">Allocation</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="row in displayedCollection">
+			<td>[[ row.name ]]</td>
+			<td class="text-right">[[ row.base_allocation ]]</td>
+		</tr>
+	</tbody>
+</table>

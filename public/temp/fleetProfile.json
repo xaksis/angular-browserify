@@ -1,0 +1,60 @@
+[{
+	"name": "Cargo Van",
+	"base_allocation": 0
+},
+{
+	"name": "4-door, Best, Non-Ford",
+	"base_allocation": 1
+},
+{
+	"name": "4-door, Better, Non-Ford",
+	"base_allocation": 2
+},
+{
+	"name": "4-door, Good, Ford",
+	"base_allocation": 3
+},
+{
+	"name": "4-door, Good, Non-Ford",
+	"base_allocation": 4
+},
+{
+	"name": "5-door, Best, Non-Ford",
+	"base_allocation": 5
+},
+{
+	"name": "5-door, Better, Non-Ford",
+	"base_allocation": 6
+},
+{
+	"name": "5-door, Good, Ford",
+	"base_allocation": 7
+},
+{
+	"name": "5-door, Good, Non-Ford",
+	"base_allocation": 8
+},
+{
+	"name": "Minivan, Ford",
+	"base_allocation": 9
+},
+{
+	"name": "Minivan, Non-Ford",
+	"base_allocation": 10
+},
+{
+	"name": "SUV, Best, Non-Ford",
+	"base_allocation": 11
+},
+{
+	"name": "SUV, Better, Ford",
+	"base_allocation": 12
+},
+{
+	"name": "SUV, Better, Non-Ford",
+	"base_allocation": 13
+},
+{
+	"name": "Wagon, Non-Ford",
+	"base_allocation": 14
+}]
